@@ -1,3 +1,4 @@
+//condition in js
 let age = 11;
 let hasParentPermission = true;
 

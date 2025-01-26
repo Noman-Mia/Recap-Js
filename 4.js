@@ -1,3 +1,4 @@
+//function in js
 function addTwoNumber(addOne, addTwo){
     // let addOne = 20;
     // let addTwo = 10;
