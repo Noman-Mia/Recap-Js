@@ -1,0 +1,19 @@
+***js you need to know for react***
+1.condition, multiple condition
+2.array
+3.loop  
+4.function
+5.arrow function, multiline arrow
+6.object
+7.template string
+8.spreed operator and add and remove in array using spreed operator and filter function
+9.array methods---> map,forEach,filter,find
+10.destructuring--> array, object
+11.json -->stringify, parse
+12.fetch
+13.object keys,values
+14.ternary operator and advanced ternary operator
+15.truthy and falsy values
+16.localstorage and sessionStorage youtube mama
+17.dot notation and bracket notation
+18.
